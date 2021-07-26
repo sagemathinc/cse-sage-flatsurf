@@ -13,9 +13,11 @@ dependencies:
   - notebook
   - pyflatsurf>=3.6.4,<4
   - matplotlib-base
+  - sage-flatsurf
   - surface-dynamics>=0.4.7
   - jupytext
+  - ruamel.yaml
   - pip
   - pip:
     - flipper
-    - git+https://github.com/flatsurf/sage-flatsurf.git@master
+    - ipyvue-flatsurf
