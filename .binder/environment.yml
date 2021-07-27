@@ -17,6 +17,8 @@ dependencies:
   - surface-dynamics>=0.4.7
   - jupytext
   - ruamel.yaml
+  - three.js
+  - tachyon
   - pip
   - pip:
     - flipper
